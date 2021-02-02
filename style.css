@@ -1,0 +1,22 @@
+body{
+background-color: lightgreen;
+}
+
+.card{
+    margin-left: 10em;
+}
+
+.card-text{
+    font-size: medium;
+    line-height: normal;
+    font-style: normal;
+}
+.nav{
+    background-color: rgb(56, 50, 50);
+}
+
+a{
+    color: white;
+}
+
+@media screen and (max-width: 768px)
